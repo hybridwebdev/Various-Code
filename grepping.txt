@@ -1,0 +1,4 @@
+grep --include="*.*" -nRHI "13479" *
+
+
+http://www.commandlinefu.com/commands/view/4707/recursively-grep-thorugh-directory-for-string-in-file.
